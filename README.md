@@ -1,4 +1,3 @@
-# Chess-Engine
 # PruneMind Chess Engine
 
 ## Overview
