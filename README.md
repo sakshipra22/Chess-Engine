@@ -1,4 +1,4 @@
-# PruneMind Chess Engine
+#Chess Engine
 
 ## Overview
 PruneMind is a Python-based chess engine that utilizes the Minimax algorithm with alpha-beta pruning to evaluate and make optimal moves. It features relative piece values inspired by AlphaZero and includes an entropy-based evaluation for more dynamic gameplay. The engine can play against a human opponent or simulate a match between two AI instances.
